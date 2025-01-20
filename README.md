@@ -3,7 +3,7 @@ Here's an example of a professional and appealing GitHub profile description:
 ---
 
 ### 🌟 **About Me**
-Hi there! 👋 I'm **[View Rax]**, a passionate **[Full Stack]** with a love for building innovative and impactful solutions. I thrive on turning ideas into reality through clean, efficient, and maintainable code. Whether it's designing user-friendly web applications, solving complex backend challenges, or experimenting with cutting-edge technologies, I'm always eager to learn and grow. 
+Hi there! 👋 I'm **View Rax**, a passionate **Full Stack Web Developer** with a love for building innovative and impactful solutions. I thrive on turning ideas into reality through clean, efficient, and maintainable code. Whether it's designing user-friendly web applications, solving complex backend challenges, or experimenting with cutting-edge technologies, I'm always eager to learn and grow. 
 
 ---
 
