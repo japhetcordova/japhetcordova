@@ -30,8 +30,8 @@ Hi there! 👋 I'm [Your Name], a passionate **[Your Role]** with a love for bui
 ---
 
 ### 📫 **How to Reach Me**
-- 💻 Portfolio: [Your Portfolio Link]
-- 📧 Email: [Your Email Address]
+- 💻 Portfolio: [[Vie Rax]](https://www.facebook.com/profile.php?id=61571462181214)
+- 📧 Email: vraxx07@gmail.com
 - 💼 LinkedIn: [Your LinkedIn Profile Link]
 - 🐦 Twitter: [Your Twitter Handle]
 
@@ -48,5 +48,3 @@ Hi there! 👋 I'm [Your Name], a passionate **[Your Role]** with a love for bui
 I’m always open to contributing to exciting projects or brainstorming new ideas. Feel free to check out my repositories, drop me a message, or fork a project and let's build something amazing together! 🚀
 
 ---
-
-You can customize this template based on your skills, interests, and projects. The key is to be professional yet personal, providing a clear picture of your expertise while inviting collaboration.
