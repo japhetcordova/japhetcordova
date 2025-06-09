@@ -1,6 +1,4 @@
 # About Me
-
-//I'm a Full Stack Developer dedicated to creating solutions that deliver real business value. I’m always learning, refining my skills, and staying current with evolving tech.
 I'm a Frontend Developer focused on building user-friendly, responsive interfaces that create real business impact. I continuously refine my skills, stay updated with the latest web technologies, and strive to deliver seamless user experiences.
 
 Feel free to connect or collaborate!
