@@ -1,7 +1,6 @@
-# 💫 About Me:
 # 👋 Hi, I'm a First-Year IT Student & Developer
 
-I'm a **first-year Information Technology student** currently working at a business solutions company, contributing to projects for:
+I'm a **first-year Information Technology student** previously working at a business solutions company, contributing to projects for:
 
 - **TMT Insurance**
 - **Avocado VA**
@@ -9,40 +8,6 @@ I'm a **first-year Information Technology student** currently working at a busin
 - **Running Shius**
 - **Avocado Tutors**
 
----
-
-### 💻 What I’m Working On
-
-I'm open to collaboration in:
-- **Backend Development**
-- **Cybersecurity**
-- **Opportunities with Leading Tech Companies**
-
-I'm passionate about continuous learning and staying ahead in the ever-evolving tech landscape for long-term growth.
-
----
-
-### 🔬 Currently Learning
-
-- **Machine Learning**
-- **AI Modeling**
-
----
-
-### 💬 Ask Me About
-
-- Backend Development  
-- AI & Machine Learning  
-- Cybersecurity  
-- Competitive Programming  
-
----
-
-### 🎉 Fun Fact
-
-At just **18 years old**, I’ve already gained professional experience in the tech industry. I was the **2025 Hackathon Champion** at the **University of Mindanao**, and also the **2025 Programming Competition Champion**. As a freshman, I served as a mentor for both first- and second-year IT students — something I’m truly proud of.
-
----
 
 Feel free to connect or collaborate!
 
