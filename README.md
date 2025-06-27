@@ -45,6 +45,7 @@ I'm a Frontend Developer focused on building user-friendly, responsive interface
   <a href="https://openai.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="50" height="50" />
   </a>
+
   <a href="https://www.python.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
   </a>
