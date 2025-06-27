@@ -28,6 +28,9 @@ I'm a Frontend Developer focused on building user-friendly, responsive interface
   <a href="https://dart.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="50" height="50" />          
   </a>
+    <a href="https://https://tailwindcss.com//">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" />          
+  </a>
   <a href="https://git-scm.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />     
   </a>
