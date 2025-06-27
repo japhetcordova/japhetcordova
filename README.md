@@ -37,6 +37,9 @@ I'm a Frontend Developer focused on building user-friendly, responsive interface
   <a href="https://www.mysql.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" />
   </a>
+  <a href="https://https://www.postgresql.org//">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" />
+  </a>
   <a href="https://www.java.com/en/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" />
   </a>
