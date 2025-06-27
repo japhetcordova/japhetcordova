@@ -3,7 +3,7 @@
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0110e44c9d86f2353c)
 
 ## About Me
-I'm a Frontend Developer focused on building user-friendly, responsive interfaces that create real business impact. I continuously refine my skills, stay updated with the latest web technologies, and strive to deliver seamless user experiences.
+I'm a full-stack developer who builds smart, AI-powered solutions designed to help startups grow faster, boost customer engagement, and increase sales. My goal is to simplify complex processes, save time, and create user-friendly tools that make business operations smoother and more efficient.
 
 ## Tech Stacks
 <p align="center">
