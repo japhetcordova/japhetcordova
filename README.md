@@ -1,96 +1,56 @@
-<h1 align="center">Hey, I’m Japhet Cordova 👋</h1>
+[![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/30674740/japhet-cordova)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/japhet-cordova-2aa591223/)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0110e44c9d86f2353c)
 
-###
+## About Me
+I'm a full-stack developer building AI-powered solutions that help startups grow, engage customers, and work smarter. 
 
-<h3 align="center">Full-Stack Developer • AI Product Builder</h3>
-
-###
-
-<p align="left">
-  I build smart, scalable, AI-powered tools to help startups grow, increase customer engagement, and work more efficiently.<br><br>
-  - 🔭 Currently working on AI-enhanced SaaS platforms<br>
-  - 🧠 Exploring deeper use cases of OpenAI and automation<br>
-  - ⚡ Always on the lookout for new tech that solves real problems
+## Tech Stacks
+<p align="center">
+  <a href="https://wordpress.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://flutter.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" height="50" />        
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://dart.dev/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="50" height="50" />          
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" />          
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />     
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.java.com/en/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" />
+  </a>
 </p>
 
-###
-
-<h3 align="left">Connect with Me</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/japhet-cordova-2aa591223/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://stackoverflow.com/users/30674740/japhet-cordova">
-    <img src="https://cdn.simpleicons.org/stackoverflow/FE7A16" height="40" alt="stackoverflow logo" />
-  </a>
-  <a href="https://www.upwork.com/freelancers/~0110e44c9d86f2353c">
-    <img src="https://cdn.simpleicons.org/upwork/6FDA44" height="40" alt="upwork logo" />
-  </a>
-</div>
-
-###
-
-<h3 align="left">Tech Stack</h3>
-
-###
-
-<h4 align="left">Frontend</h4>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" alt="shadcn logo" />
-</div>
-
-###
-
-<h4 align="left">Backend & API</h4>
-
-<div align="left">
-  <img src="https://trpc.io/img/logo.svg" height="40" alt="trpc logo" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/104384138?s=200&v=4" height="40" alt="zod logo" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/123451847?s=200&v=4" height="40" alt="drizzle logo" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/100647105?s=200&v=4" height="40" alt="neon logo" />
-</div>
-
-###
-
-<h4 align="left">AI & Automation</h4>
-
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="40" alt="openai logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/CodeRabbitAI/branding/main/logo-dark.png" height="40" alt="coderabbit logo" />
-</div>
-
-###
-
-<h4 align="left">Tooling & Environment</h4>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dotenv/364135" height="40" alt="dotenv logo" />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/72518640?s=200&v=4" height="40" alt="tanstack logo" />
-</div>
-
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=japhetcordova&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=japhetcordova&layout=compact&theme=dracula" height="150" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jcordova" alt="Profile Views" />
+</p>
