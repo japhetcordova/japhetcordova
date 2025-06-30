@@ -3,7 +3,7 @@
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0110e44c9d86f2353c)
 
 ## About Me
-I'm a full-stack developer building AI solutions that help startups grow, engage customers, and work faster. 
+I create AI-powered software solutions that drive growth, enhance user engagement, and streamline workflows for innovative teams and businesses. 
 
 ## Tech Stacks
 <p align="center">
