@@ -3,7 +3,7 @@
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0110e44c9d86f2353c)
 
 ## About Me
-I build AI-driven software that helps teams grow, connect with users, and move faster
+I build AI-driven software that helps teams grow, connect with users, and move faster.
 
 ## Tech Stacks
 <p align="center">
